@@ -14,6 +14,11 @@ public class Main {
                    "variable is %d, and the string " +
                    "is %s", floatVar, intVar, stringVar);
        System.out.println(fs);
+
+       System.out.printf("The value of the float variable is " +
+                  "%f, while the value of the integer " +
+                  "variable is %d, and the string " +
+                  "is %s", floatVar, intVar, stringVar);
     }
  }
  
