@@ -30,10 +30,10 @@ public class Main {
   Cela produira le résultat suivant :
   
   Production
-  3
-  1
-  2
-  6
-  4
-  2
+ 2
+ 4
+ 6
+ 2
+ 1
+ 3
   */
